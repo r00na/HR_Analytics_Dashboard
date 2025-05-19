@@ -8,12 +8,12 @@ This HR Analytics Dashboard provides key insights into employee attrition, job s
 
 ## 🔢 Key Metrics
 
-* 👥 **Total Employees:** 1,470
-* 🔄 **Total Attrition:** 238
-* 📉 **Attrition Rate:** 16%
-* 🎂 **Average Age:** 37 years
-* 💰 **Average Salary:** 6.5K
-* 🕐 **Average Years at Company:** 7 years
+*  **Total Employees:** 1,470
+*  **Total Attrition:** 238
+*  **Attrition Rate:** 16%
+*  **Average Age:** 37 years
+*  **Average Salary:** 6.5K
+*  **Average Years at Company:** 7 years
 
 
 ## 📊 Visualizations Included
