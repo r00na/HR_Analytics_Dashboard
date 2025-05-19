@@ -36,7 +36,7 @@ This HR Analytics Dashboard provides key insights into employee attrition, job s
 
 
 ```markdown
-![HR Analytics Dashboard](assets/hr_dashboard.png)
+![HR Analytics Dashboard](images/HR_dashboard.png)
 ```
 
 ## 🎯 Usage
