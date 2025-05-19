@@ -18,12 +18,12 @@ This HR Analytics Dashboard provides key insights into employee attrition, job s
 
 ## 📊 Visualizations Included
 
-* 🎓 **Attrition by Education:** Breakdown based on educational background
-* 👵 **Attrition by Age Group:** Trends among different age brackets
-* ⏳ **Attrition by Years at Company:** Varies with tenure
-* 💸 **Attrition by Salary Slab:** Categorized by salary ranges
-* 🙂 **Attrition by Job Satisfaction Score:** Across different roles
-* 🚻 **Attrition by Gender:** Comparison between male and female employees
+*  **Attrition by Education:** Breakdown based on educational background
+*  **Attrition by Age Group:** Trends among different age brackets
+*  **Attrition by Years at Company:** Varies with tenure
+*  **Attrition by Salary Slab:** Categorized by salary ranges
+*  **Attrition by Job Satisfaction Score:** Across different roles
+*  **Attrition by Gender:** Comparison between male and female employees
 
 
 ## 🧰 Technologies Used
